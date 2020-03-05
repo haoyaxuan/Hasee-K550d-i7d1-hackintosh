@@ -12,4 +12,5 @@
 ## https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html
 
 # 已知问题：
-###     1.开机8个苹果，临时解决方案：使用clover configure 修改 GUI 的分辨率为：1024*768
+### 1. usb3.0口插入usb3.0的u盘无法读取，插入2.0的u盘正常
+### 2. 重启黑屏，有时候可以进入系统，有时候无限黑屏，关机正常。
