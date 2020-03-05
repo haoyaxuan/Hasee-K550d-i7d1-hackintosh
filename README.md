@@ -11,6 +11,13 @@
 ## MacOS系统镜像下载地址（感谢黑果小兵提供）：
 ## https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html
 
+# 作者QQ：3129598
+
 # 已知问题：
 ### 1. usb3.0口插入usb3.0的u盘无法读取，插入2.0的u盘正常
 ### 2. 重启黑屏，有时候可以进入系统，有时候无限黑屏，关机正常。
+# QA
+### BIOS设置
+### 答：Advanced - Intel(VMX) Virtuailzation Technology   <Disable>
+###    Boot - Boot Type <Dual Boot Type>   
+
