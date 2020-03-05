@@ -18,5 +18,5 @@
 ### 2. 重启黑屏，有时候可以进入系统，有时候无限黑屏，关机正常。
 # QA
 ### BIOS设置
-### 答：修改 Advanced - Intel(VMX) Virtuailzation Technology   <Disable> 和 Boot - Boot Type <Dual Boot Type>  ，第一个解决电源不充电，第二个是解决开机8个苹果。 
+### 答：修改 Advanced - Intel(VMX) Virtuailzation Technology 为 Disable 和 Boot - Boot Type 为 Dual Boot Type ，第一个解决电源不充电，第二个是解决开机8个苹果。 
 
