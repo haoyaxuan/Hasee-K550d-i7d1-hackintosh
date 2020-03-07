@@ -11,10 +11,10 @@
 | 硬盘 | 128GSSD + 1THDD |
 
 
-## BIOS设置
-- 修改 Advanced - Intel(VMX) Virtuailzation Technology 为 Disable
-- Boot - Boot Type 为 Dual Boot Type
-
+## 前置处理
+- 修改BIOS - Advanced - Intel(VMX) Virtuailzation Technology 为 Disable
+- 修改BIOS - Boot - Boot Type 为 Dual Boot Type
+- 安装好系统后请将`utility/kexts`内的文件放到`/System/Library/Extensions`，然后适用`kext_utility`重建缓存
 
 ## 镜像下载
 - 黑果小兵部落阁 [MacOS Mojave 10.14.6 18G87](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html
