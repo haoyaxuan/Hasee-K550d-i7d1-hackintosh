@@ -18,7 +18,7 @@
 
 ## 镜像下载
 - 黑果小兵部落阁 [MacOS Mojave 10.14.6 18G87](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html
-)
+)，感谢 @黑果小兵
 
 ## 已知问题
 1. usb3.0速度为2.0。
