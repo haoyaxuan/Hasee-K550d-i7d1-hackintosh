@@ -6,7 +6,7 @@
 | ---- | ----------  |
 | CPU | Intel Haswell i7-4710MQ |
 | 显卡 | Intel HD Graphics 4600 + NVIDIA GeForce GTX 950M（已屏蔽） |
-| 声卡 | VALC892 |
+| 声卡 | ALC282 |
 | 网卡 | RealtekRTL8111 + AR5B125（已更换 BCM94360HMB） |
 | 硬盘 | 128GSSD + 1THDD |
 
