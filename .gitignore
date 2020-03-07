@@ -1,0 +1,6 @@
+# IntelliJ project files
+*.iml
+*.log
+
+# shell files
+*.sh
