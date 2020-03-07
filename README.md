@@ -11,7 +11,7 @@
 | 硬盘 | 128GSSD + 1THDD |
 
 
-## 前置处理
+## 需要操作
 - 修改BIOS - Advanced - Intel(VMX) Virtuailzation Technology 为 Disable
 - 修改BIOS - Boot - Boot Type 为 Dual Boot Type
 - 安装好系统后请将`utility/kexts`内的文件放到`/System/Library/Extensions`，然后适用`kext_utility`重建缓存
