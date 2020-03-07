@@ -16,12 +16,16 @@
 - 修改BIOS - Boot - Boot Type 为 Dual Boot Type
 - 安装好系统后请将`utility/kexts`内的文件放到`/System/Library/Extensions`，然后适用`kext_utility`重建缓存
 
+
+## 注意点
+- 如果未更换你bcm网卡，请不要将`utility/kexts`内含有Bcm字样的文件放到`/System/Library/Extensions`
+- 本EFI使用了原生声卡驱动，如果不想使用，可以联系作者修改成模拟声卡，原生声卡相比模拟声卡更稳定
+- 本EFI只适用于 MacOS Mojave 10.14.x 不适用 10.15.x，已测试会无法正常引导 
+
+
 ## 镜像下载
 - 黑果小兵部落阁 [MacOS Mojave 10.14.6 18G87](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html
 )，感谢 @黑果小兵
-
-## 已知问题
-1. usb3.0速度为2.0。
 
 
 ## 作者联系方式
