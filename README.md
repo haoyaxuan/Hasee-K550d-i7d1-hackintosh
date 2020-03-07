@@ -18,7 +18,7 @@
 
 
 ## 注意点
-- 如果未更换你bcm网卡，请不要将`utility/kexts`内含有Bcm字样的文件放到`/System/Library/Extensions`
+- 如果未更换网卡(BCM94360HMB)，请不要将`utility/kexts`内含有Bcm字样的文件放到`/System/Library/Extensions`
 - 本EFI使用了原生声卡驱动，如果不想使用，可以联系作者修改成模拟声卡，原生声卡相比模拟声卡更稳定
 - 本EFI只适用于 MacOS Mojave 10.14.x 不适用 10.15.x，已测试会无法正常引导 
 
