@@ -15,7 +15,7 @@
 - 修改BIOS - Advanced - Intel(VMX) Virtuailzation Technology 为 Disable
 - 修改BIOS - Boot - Boot Type 为 Dual Boot Type
 - 安装好系统后请将`utility/kexts`内的文件放到`/System/Library/Extensions`，然后适用`kext_utility`重建缓存
-
+- 如果想开启hidpi，请看 [one-key-hidpi](https://github.com/xzhih/one-key-hidpi)，需要系统正常后开启，请不要进行EDID注入，只开启hidpi即可
 
 ## 注意点
 - 如果未更换网卡(BCM94360HMB)，请不要将`utility/kexts`内含有Bcm字样的文件放到`/System/Library/Extensions`
