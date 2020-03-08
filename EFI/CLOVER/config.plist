@@ -147,6 +147,16 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
+					<string>rename method _Q60</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>X1E2MA==</data>
+					<key>Replace</key>
+					<data>WFE2MA==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
 					<string>change Method(FANG,1,N) to XANG</string>
 					<key>Disabled</key>
 					<true/>
@@ -215,7 +225,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<string>2</string>
+			<integer>2</integer>
 		</dict>
 		<key>FakeID</key>
 		<dict>
@@ -539,30 +549,30 @@
 			<dict>
 				<key>Comment</key>
 				<string>Zeroing 10ec0885 codec (patched by AppleHDA Patcher.app)</string>
+				<key>Disabled</key>
+				<false/>
 				<key>Find</key>
-				<data>
-				hQjsEA==
-				</data>
+				<data>hQjsEA==</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleHDA</string>
 				<key>Replace</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Patching 11d41984 with 10ec0282 codec (patched by AppleHDA Patcher.app)</string>
+				<key>Disabled</key>
+				<false/>
 				<key>Find</key>
-				<data>
-				hBnUEQ==
-				</data>
+				<data>hBnUEQ==</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleHDA</string>
 				<key>Replace</key>
-				<data>
-				ggLsEA==
-				</data>
+				<data>ggLsEA==</data>
 			</dict>
 		</array>
 	</dict>
