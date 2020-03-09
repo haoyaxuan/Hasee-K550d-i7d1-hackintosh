@@ -226,6 +226,8 @@
 		<dict>
 			<key>Inject</key>
 			<integer>2</integer>
+			<key>ResetHDA</key>
+			<true/>
 		</dict>
 		<key>FakeID</key>
 		<dict>
