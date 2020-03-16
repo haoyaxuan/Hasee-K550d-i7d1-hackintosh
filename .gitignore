@@ -3,4 +3,4 @@
 *.log
 
 # shell files
-*.sh
+#*.sh
