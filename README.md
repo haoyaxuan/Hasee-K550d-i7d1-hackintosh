@@ -23,14 +23,15 @@
 
 ## 镜像下载
 - 黑果小兵部落阁 [MacOS Mojave 10.14.6 18G87](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html
+)
+- 黑果小兵部落阁 [MacOS Catalina 10.15.3 19D76](https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html
 )，感谢 @黑果小兵
 
-
 ## 已发现问题
-1.蓝牙无法使用
-2.usb3.0无法正常工作
+1.蓝牙可以正常驱动但是无法识别设备
 
 ## 更新日志
+- 2020.03.17 修复usb不识别问题，现只有电脑右侧最下面的usb2.0口无法识别
 - 2020.03.16 升级到10.15.3，如果想要mac os 10.14.6的请clone后切换10.14.6分支
 - 2020.03.16 修复关机再开机后电池状态不在菜单栏显示
 - 2020.03.09 修复睡眠后无声音
