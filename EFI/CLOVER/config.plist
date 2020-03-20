@@ -548,7 +548,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>USB port limit patch</string>
+				<string>USB Port limit patch for 10.15.x</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
@@ -556,13 +556,13 @@
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
-				<string>com.apple.iokit.IOUSBHostFamily</string>
+				<string>om.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
 				<data>g/s/Dw==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>USB port limit patch</string>
+				<string>USB Port limit patch for 10.15.x</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
@@ -592,13 +592,13 @@
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP111.88Z.F000.B00.1907241312</string>
+		<string>MBP112.88Z.F000.B00.1907241257</string>
 		<key>Board-ID</key>
-		<string>Mac-189A3D4F975D5FFC</string>
+		<string>Mac-3CBD00234E554E41</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C17321902GUFH31AD</string>
+		<string>C02517108J9FJQW1F</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -626,11 +626,11 @@
 		<key>PlatformFeature</key>
 		<string>0x02</string>
 		<key>ProductName</key>
-		<string>MacBookPro11,1</string>
+		<string>MacBookPro11,2</string>
 		<key>SerialNumber</key>
-		<string>C17KR0YYFH00</string>
+		<string>C02PMYZBG86R</string>
 		<key>SmUUID</key>
-		<string>E26909D9-5211-4DF7-96FF-A989505F57B7</string>
+		<string>78EB4354-68CF-4251-B582-656B080FF68E</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
