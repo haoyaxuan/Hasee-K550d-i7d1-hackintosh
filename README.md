@@ -22,8 +22,6 @@
 - 买网卡的时候一点记得买【2根转接线+1根天线】的，这根天线是给蓝牙使用的，否则蓝牙无法信号，搜不到设备
 
 ## 镜像下载
-- 黑果小兵部落阁 [MacOS Mojave 10.14.6 18G87](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html
-)
 - 黑果小兵部落阁 [MacOS Catalina 10.15.3 19D76](https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html
 )，感谢 @黑果小兵
 
