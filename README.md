@@ -14,8 +14,7 @@
 ## 需要操作
 - 修改BIOS - Advanced - Intel(VMX) Virtuailzation Technology 为 Disable
 - 修改BIOS - Boot - Boot Type 为 Dual Boot Type
-- Mac os x 10.15.x 需要解锁`/System/Library/Extensions`权限，解锁教程：[解锁S/L/E](https://www.jianshu.com/p/ea9c81841afa)
-- 安装好系统后，需要先解锁S/L/E，再将`utility/kexts`内的文件放到`/System/Library/Extensions`，然后适用`kext_utility`重建缓存
+- 安装好系统后，需要先[解锁S/L/E](https://www.jianshu.com/p/ea9c81841afa)，再将`utility/kexts`内的文件放到`/System/Library/Extensions`，然后适用`kext_utility`重建缓存
 - 如果想开启hidpi，请看 [one-key-hidpi](https://github.com/xzhih/one-key-hidpi)，需系统正常后开启，请不要进行EDID注入，只开启hidpi即可
 
 ## 注意点
