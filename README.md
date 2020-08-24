@@ -51,7 +51,7 @@ Hasee-k550d-i7d1（i5/i7均可）。
 - [Leevast](https://github.com/leo2heaven) 在此特别感谢和我一起制作的小伙伴。
 ## 觉得资源还不错的可以打赏一下  
 
-| paypal | 微信 | 支付宝 |
-| ------ | ---- | ------ |
-|        |      |        |
+| 微信 | 支付宝 |
+| ---- | ------ |
+| ![wechatpay](https://github.com/haoyaxuan/k550di7d1/blob/master/images/wechatpay.png) | ![alipay](https://github.com/haoyaxuan/k550di7d1/blob/master/images/alipay.png)       |
 
