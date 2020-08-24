@@ -31,11 +31,20 @@ Hasee-k550d-i7d1（i5/i7均可）。
 2：修改BIOS - Boot - Boot Type 为 Dual Boot Type   
 
 ## 注意点
-
 1：买网卡的时候一点记得买【2根转接线+1根天线】的，这根天线是给蓝牙使用的，否则蓝牙无法信号，搜不到设备。
 
-## 致谢
+## 更新日志
+- 2020.08.24 全面升级EFI，适配mac os 11，并兼任10.14和10.15；摒弃原生声卡，使安装更简单，修复usb3.0问题
+- 2020.03.20 修复睡眠后声卡没有声音
+- 2020.03.20 修复快捷键调节屏幕亮度，小太阳
+- 2020.03.20 修复usb不识别和蓝牙无法使用问题，所有usb扣全部正常识别，但速度只有2.0的速度，蓝牙需要一根天线，茶中间的那个端点
+- 2020.03.17 修复usb不识别问题，现只有电脑右侧最下面的usb2.0口无法识别
+- 2020.03.16 升级到10.15.3，如果想要mac os 10.14.6的请clone后切换10.14.6分支
+- 2020.03.16 修复关机再开机后电池状态不在菜单栏显示
+- 2020.03.09 修复睡眠后无声音
+- 2020.03.08 修复快捷键调节屏幕亮度，小太阳
 
+## 致谢
 - [RehabMan](https://github.com/RehabMan) 提供的   [VoodooPS2Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller)等驱动。    
 - [vit9696](https://github.com/vit9696) 提供的 [Lilu](https://github.com/acidanthera/Lilu) ，     [AppleALC](https://github.com/acidanthera/AppleALC)   ，   [WhateverGreen](https://github.com/acidanthera/WhateverGreen)。     
 - [Alexandred](https://github.com/alexandred)及其开发团队提供的[VoodooI2C](https://github.com/alexandred/VoodooI2C) 驱动。  
