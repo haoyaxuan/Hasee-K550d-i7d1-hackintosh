@@ -53,5 +53,5 @@ Hasee-k550d-i7d1（i5/i7均可）。
 
 | 微信                                                         | 支付宝                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![wechatpay_160](https://github.com/haoyaxuan/k550di7d1/blob/master/images/wechatpay.png) | ![alipay_160](https://github.com/haoyaxuan/k550di7d1/blob/master/images/alipay.png) |
+| ![wechatpay_160](https://github.com/haoyaxuan/k550di7d1/blob/master/images/wechatpay.png=160x) | ![alipay_160](https://github.com/haoyaxuan/k550di7d1/blob/master/images/alipay.png=160x) |
 
