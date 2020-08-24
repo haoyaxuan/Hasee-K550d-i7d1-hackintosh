@@ -1,4 +1,4 @@
-# Hasee-k550d-i7d1安装macOS Mojave and Catalina
+# Hasee-k550d-i7d1
 ## 电脑配置
 
 | 规格     | 详细信息                                            |
