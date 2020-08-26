@@ -37,7 +37,7 @@ Hasee-k550d-i7d1（i5/i7均可）。
 - 2020.08.24 全面升级EFI，适配mac os 11并兼容10.14和10.15；摒弃原生声卡，使安装更简单，修复usb3.0问题
 - 2020.03.20 修复睡眠后声卡没有声音
 - 2020.03.20 修复快捷键调节屏幕亮度，小太阳
-- 2020.03.20 修复usb不识别和蓝牙无法使用问题，所有usb扣全部正常识别，但速度只有2.0的速度，蓝牙需要一根天线，茶中间的那个端点
+- 2020.03.20 修复usb不识别和蓝牙无法使用问题，所有usb扣全部正常识别，但速度只有2.0的速度，蓝牙需要一根天线，插中间的那个端点
 - 2020.03.17 修复usb不识别问题，现只有电脑右侧最下面的usb2.0口无法识别
 - 2020.03.16 升级到10.15.3，如果想要mac os 10.14.6的请clone后切换10.14.6分支
 - 2020.03.16 修复关机再开机后电池状态不在菜单栏显示
@@ -49,8 +49,11 @@ Hasee-k550d-i7d1（i5/i7均可）。
 - [vit9696](https://github.com/vit9696) 提供的 [Lilu](https://github.com/acidanthera/Lilu) ，     [AppleALC](https://github.com/acidanthera/AppleALC)   ，   [WhateverGreen](https://github.com/acidanthera/WhateverGreen)。     
 - [Alexandred](https://github.com/alexandred)及其开发团队提供的[VoodooI2C](https://github.com/alexandred/VoodooI2C) 驱动。  
 - [Leevast](https://github.com/leo2heaven) 在此特别感谢和我一起制作的小伙伴。
-## 觉得资源还不错的可以打赏一下  
 
+## 联系方式
+QQ：3129598
+
+## 觉得资源还不错的可以打赏一下  
 | 微信                                                         | 支付宝                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![wechatpay](https://github.com/haoyaxuan/k550di7d1/blob/master/images/wechatpay.png) | ![alipay](https://github.com/haoyaxuan/k550di7d1/blob/master/images/alipay.png) |
