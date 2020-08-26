@@ -30,7 +30,7 @@ Hasee-k550d-i7d1（i5/i7均可）。
 - 黑果小兵部落阁 [MacOS Catalina 10.15.6](https://blog.daliansky.net/macOS-Catalina-10.15.6-19G73-Release-version-with-Clover-5119-original-image-Double-EFI-Version-UEFI-and-MBR.html)，感谢 @黑果小兵
 
 ## 安装教程
-1：修改BIOS - Advanced - Intel(VMX) Virtuailzation Technology 为 Disable
+1：修改BIOS - Advanced - Intel(VMX) Virtuailzation Technology 为 Disable  
 2：修改BIOS - Boot - Boot Type 为 Dual Boot Type   
 
 ## 注意点
